@@ -26,8 +26,6 @@
 
 #### Deprecated Techs:
 - [ ] <del>seamless immutable</del>[ why?](https://github.com/sorrycc/blog/issues/1) 
-- [ ] <del>登陆模块和redux化token</del> 使用jd账户系统
-
 ## 目录导航
 1. [技术栈](#技术栈)
 1. [配置要求](#配置要求)
