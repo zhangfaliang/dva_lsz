@@ -1,4 +1,4 @@
-# JD Game项目脚手架
+# 项目脚手架
 
 #### TODO:
 - [X] [Fractal Project Structure](https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure) example in route: game
