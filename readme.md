@@ -21,7 +21,6 @@
 - [X] i18n
 - [X] custome webpack config [参考](https://github.com/sorrycc/roadhog/issues/304)
 - [ ] bundled js hash name [参考](https://github.com/packingjs/replace-hash-webpack-plugin)
-- [ ] 章鱼API proxy
 - [ ] dist deploy test
 - [ ] i18n with moment format auto config 
 
@@ -59,8 +58,6 @@
 ### 安装
 
 ```bash
-$ git clone http://git.8win.com/zy-h5/zy-h5-game.git
-$ cd zy-h5-game
 ```
 
 安装npm packages. 推荐使用 [Yarn](https://yarnpkg.com/),  当然 `npm install` 同样奏效。 
